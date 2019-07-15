@@ -1,117 +1,117 @@
-,gender, description,notes
-0,Abimegender,a gender that is profound deep and infinite; meant to resemble when one mirror is reflecting into another mirror creating an infinite paradox,266.7647058823529
-1,Adamasgender,a gender which refuses to be categorizedAerogendera gender that is influenced by your surroundings,416.8
-2,Aesthetigender,a gender that is derived from an aesthetic; also known as videgender,71.05
-3,Affectugender,a gender that is affected by mood swings,324.7142857142857
-4,Agender,the feeling of no gender/absence of gender or neutral gender,133.8
-5,Agenderflux,Being agender and having fluctuating feelings of masculinity of femininity but NOT male or female,454.35
-6,Alexigender,a gender that is fluid between more than one gender but the individual cannot tell what those genders are,238.9
-7,Aliusgender,a gender which is removed from common gender descriptors and guidelines,517.125
-8,Amaregender,a gender that changes depending on who you�re in love with,0.0
-9,Ambigender,defined as having the feeling of two genders simultaneously without fluctuation; meant to reflect the concept of being ambidextrous only with gender,512.4
-10,Ambonec,identifying as both man and woman yet neither at the same time,0.0
-11,Amicagender,a gender that changes depending on which friend you�re with,233.31578947368422
-12,Androgyne,sometimes used in the case of �androgynous presentation describes the feeling of being a mix of both masculine and feminine (and sometimes neutral) gender qualities,0.0
-13,Anesigender,feeling like a certain gender yet being more comfortable identifying with another,222.71428571428572
-14,Angenital,a desire to be without primary sexual characteristics without necessarily being genderless; one may be both angenital and identify as any other gender alongside,257.45
-15,Anogender,a gender that fades in and out but always comes back to the same feeling,431.4
-16,Anongender,a gender that is unknown to both yourself and others,708.625
-17,Antegender,a protean gender which has the potential to be anything but is formless and motionless and therefore does not manifest as any particular gender,521.75
-18,Anxiegender,a gender that is affected by anxiety,307.64285714285717
-19,Apagender,a feeling of apathy towards ones gender which leads to them not looking any further into it,0.0
-20,Apconsugender,a gender where you know what it isn�t but not what it is; the gender is hiding itself from you,683.8333333333334
-21,Astergender,a gender that feels bright and celestial,0.0
-22,Astralgender,a gender that feels connected to space,220.3
-23,Autigender,a gender that can only be understood in the context of being autistic. Meant for autistic people only.,763.65
-24,Autogender,a gender experience that is deeply personal to oneself,343.84615384615387
-25,Axigender,when a person experiences two genders that sit on opposite ends of an axis; one being agender and the other being any other gender; these genders are experienced one at a time with no overlapping and with very short transition time.,0.0
-26,Bigender,the feeling of having two genders either at the same time or separately; usually used to describe feeling �traditionally male� and �traditionally female� but does not have to,10283.0
-27,Biogender,a gender that feels connected to nature in some way,194.89473684210526
-28,Blurgender,the feeling of having more than one gender that are somehow blurred together to the point of not being able to distinguish or identify individual genders; synonymous with genderfuzz,104.5
-29,Boyflux,when one feels mostly or all male most of the time but experience fluctuating intensity of male identity,2036.7
-30,Burstgender,and gender that comes in intense bursts of feeling and quickly fades back to the original state,581.1428571428571
-31,Caelgender,a gender which shares qualities with outer space or has the aesthetic of space stars nebulas etc.,0.0
-32,Cassgender,the feeling of gender is unimportant to you,1407.85
-33,Cassflux,when the level of indifference towards your gender fluctuates,542.0
-34,Cavusgender,for people with depression; when you feel one gender when not depressed and another when depressed,355.6923076923077
-35,Cendgender,when your gender changes between one and its opposite,0.0
-36,Ceterofluid,when you are ceterogender and your feelings fluctuate between masculine feminine and neutral,955.0
-37,Ceterogender,a nonbinary gender with specific masculine feminine or neutral feelings,543.25
-38,Cisgender,the feeling of being the gender you were assigned at birth all the time (assigned (fe)male/feeling (fe)male),21923.05
-39,Cloudgender,a gender that cannot be fully realized or seen clearly due to depersonalization/derealization disorder,505.44444444444446
-40,Collgender,the feeling of having too many genders simultaneously to describe each one,0.0
-41,Colorgender,a gender associated with one or more colors and the feelings hues emotions and/or objects associated with that color; may be used like pinkgender bluegender yellowgender,216.2
-42,Commogender,when you know you aren�t cisgender but you settled with your assigned gender for the time being,0.0
-43,Condigender,a gender that is only felt during certain circumstances,300.22222222222223
-44,Deliciagender,from the Latin word delicia meaning �favorite� meaning the feeling of having more than one simultaneous gender yet preferring one that fits better,0.0
-45,Demifluid,the feeling your gender being fluid throughout all the demigenders; the feeling of having multiple genders some static and some fluid,1619.5
-46,Demiflux,the feeling of having multiple genders some static and some fluctuating,2104.9
-47,Demigender,a gender that is partially one gender and partially another,58110.2
-48,Domgender,having more than one gender yet one being more dominant than the others,0.0
-49,Demi-vapor, (term coined by @cotton-blossom-jellyfish)Continuously drifting to other genders feeling spiritually transcendental when doing so while having a clear -slightly blurred- inner visual of your genders transitions and positive emotions. Tied to Demi-Smoke.,442.0
-50,Demi-smoke, (term coined by @cotton-blossom-jellyfish)A transcendental spiritual gender roughly drifting to other genders that are unable to be foreseen and understood shrouded in darkness within your inner visual. Elevating through mystery. Caused by a lack of inner interpretation and dark emotional states. Tied to Demi-Vapor.,291.35
-51,Duragender,from the Latin word dura meaning �long-lasting� meaning a subcategory of multigender in which one gender is more identifiable long lasting and prominent than the other genders,312.26666666666665
-52,Egogender,a gender that is so personal to your experience that it can only be described as �you�,255.95
-53,Epicene,sometimes used synonymously with the adjective �androgynous�; the feeling either having or not displaying characteristics of both or either binary gender; sometimes used to describe feminine male identifying individuals,408.75
-54,Espigender,a gender that is related to being a spirit or exists on a higher or extradimensional plane,734.2
-55,Exgender, the outright refusal to accept or identify in on or around the gender spectrum,248.5625
-56,Existigender,a gender that only exists or feels present when thought about or when a conscious effort is made to notice it,478.375
-57,Female,one of two binary genders where one feels fully and completely female; can and is used in conjunction with other gender labels and identities,5460.25
-58,Femfluid,having fluctuating or fluid gender feelings that are limited to feminine genders,471.0
-59,Femgender,a nonbinary gender which is feminine in nature,243.6
-60,Fluidflux,the feeling of being fluid between two or more genders that also fluctuate in intensity; a combination of genderfluid and genderflux,2781.1
-61,Gemigender,having two opposite genders that work together being fluid and flux together,514.75
-62,Genderblank,a gender that can only be described as a blank space; when gender is called into question all that comes to mind is a blank space,333.45
-63,Genderflow,a gender that is fluid between infinite feelings,113.16666666666667
-64,Genderfluid,the feeling of fluidity within your gender identity; feeling a different gender as time passes or as situations change; not restricted to any number of genders,15734.25
-65,Genderflux,the feeling of your gender fluctuating in intensity; like genderfluid but between one gender and agender,23027.3
-66,Genderfuzz,coined by lolzmelmel; the feeling of having more than one gender that are somehow blurred together to the point of not being able to distinguish or identify individual genders; synonymous with blurgender,378.0
-67,Gender Neutral,the feeling of having a neutral gender whether somewhere in between masculine and feminine or a third gender that is separate from the binary; often paired with neutrois,51647.3
-68,Genderpunk,a gender identity that actively resists gender norms,316.2
-69,Genderqueer,originally used as an umbrella term for nonbinary individuals; may be used as an identity; describes a nonbinary gender regardless of whether the individual is masculine or feminine leaning,62.8
-70,Genderwitched,a gender in which one is intrigued or entranced by the idea of a particular gender but is not certain that they are actually feeling it,0.0
-71,Girlflux,when one feels mostly or all female most of the time but experiences fluctuating intensities of female identity,1893.9
-72,Glassgender,a gender that is very sensitive and fragile,742.0
-73,Glimragender,a faintly shining wavering gender,1820.5
-74,Greygender,having a gender that is mostly outside of the binary but is weak and can barely be felt,4448.2
-75,Gyragender,having multiple genders but understanding none of them,210.0
-76,Healgender,a gender that once realized brings lots of peace clarity security and creativity to the individual�s mind,116.5
-77,Heliogender,a gender that is warm and burning,628.7142857142857
-78,Hemigender,a gender that is half one gender and half something else; one or both halves may be identifiable genders,0.0
-79,Horogender,a gender that changes over time with the core feeling remaining the same,323.4166666666667
-80,Hydrogender,a gender which shares qualities with water,0.0
-81,Imperigender,a fluid gender that can be controlled by the individual,903.8333333333334
-82,Intergender,the feeling of gender falling somewhere on the spectrum between masculine and feminine. Meant for intersex people only,1384.1
-83,Juxera,a feminine gender similar to girl but on a separate plane and off to itself,460.05
-84,Libragender,a gender that feels agender but has a strong connection to another gender,281.05
-85,Male,one of two binary genders where one feels fully and completely male; can and is used in conjunction with other gender labels and identities,2282.35
-86,Magigender,a gender that is mostly gender and the rest is something else,1954.1
-87,Mascfluid,A gender that is fluid in nature and restricted only to masculine genders,475.22222222222223
-88,Mascgender,a non-binary gender which is masculine in nature.,0.0
-89,Maverique,taken from the word maverick; the feeling of having a gender that is separate from masculinity femininity and neutrality but is not agender; a form of third gender,3328.0
-90,Mirrorgender,a gender that changes to fit the people around you,199.9
-91,Molligender,a gender that is soft subtle and subdued,917.25
-92,Multigender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand omnigender,3047.55
-93,Nanogender,feeling a small part of one gender with the rest being something else,1796.15
-94,Neutrois,the feeling of having a neutral gender; sometimes a lack of gender that leads to feeling neutral,8726.85
-95,Nonbinary,originally an umbrella term for any gender outside the binary of cisgenders; may be used as an individual identity; occasionally used alongside of genderqueer,195.55
-96,Omnigender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand polygender,0.0
-97,Oneirogender,coined by anonymous �being agender but having recurring fantasies or daydreams of being a certain gender without the dysphoria or desire to actually be that gender day-to-day�,224.5
-98,Pangender,the feeling of having every gender; this is considered problematic by some communities and thus has been used as the concept of relating in some way to all genders as opposed to containing every gender identity; only applies to genders within one�s own culture,12439.7
-99,Paragender,the feeling very near one gender and partially something else which keeps you from feeling fully that gender,250.47058823529412
-100,Perigender,identifying with a gender but not as a gender,324.2857142857143
-101,Polygender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand omnigender,5060.95
-102,Proxvira, masculine gender similar to boy but on a separate plane and off to itself,
-103,Quoigender,feeling as if the concept of gender is inapplicable or nonsensical to one�s self,616.05
-104,Subgender,mostly agender with a bit of another gender,96.05
-105,Surgender,having a gender that is 100% one gender but with more of another gender added on top of that,102.42857142857143
-106,Systemgender,a gender that is the sum of all the genders within a multiple or median system,0.0
-107,Tragender,a gender that stretches over the whole spectrum of genders,154.0
-108,Transgender,any gender identity that transcends or does not align with your assigned gender or society�s idea of gender; the feeling of being any gender that does not match your assigned gender,181.95
-109,Transneutral,A term used to describe transgender people who were assigned male or female at birth but identify with neutral gendered feelings to a greater extent than with femininity or masculinity. It is used the same way as �transfeminine� or �transmasculine� but for neutral feelings. It can be used to describe gendered feelings or as a gender itself.,6046.15
-110,Trigender,the feeling of having three simultaneous or fluctuating genders,20031.95
-111,Vapogender,a gender that sort of feels like smoke; can be seen on a shallow level but once you go deeper it disappears and you are left with no gender and only tiny wisps of what you thought it was,168.3846153846154
-112,Venngender,when two genders overlap creating an entirely new gender; like a venn diagram,96.8
-113,Verangender,a gender that seems to shift/change the moment it is identified,85.0
-114,Vibragender,a gender that is usually one stable gender but will occasionally changes or fluctuate before stabilizing again,0.0
-115,Vocigender,a gender that is weak or hollow,67.88888888888889
+gender, description,notes
+Abimegender,a gender that is profound deep and infinite; meant to resemble when one mirror is reflecting into another mirror creating an infinite paradox,266.7647058823529
+Adamasgender,a gender which refuses to be categorizedAerogendera gender that is influenced by your surroundings,416.8
+Aesthetigender,a gender that is derived from an aesthetic; also known as videgender,71.05
+Affectugender,a gender that is affected by mood swings,324.7142857142857
+Agender,the feeling of no gender/absence of gender or neutral gender,133.8
+Agenderflux,Being agender and having fluctuating feelings of masculinity of femininity but NOT male or female,454.35
+Alexigender,a gender that is fluid between more than one gender but the individual cannot tell what those genders are,238.9
+Aliusgender,a gender which is removed from common gender descriptors and guidelines,517.125
+Amaregender,a gender that changes depending on who you�re in love with,0.0
+Ambigender,defined as having the feeling of two genders simultaneously without fluctuation; meant to reflect the concept of being ambidextrous only with gender,512.4
+Ambonec,identifying as both man and woman yet neither at the same time,0.0
+Amicagender,a gender that changes depending on which friend you�re with,233.31578947368422
+Androgyne,sometimes used in the case of �androgynous presentation describes the feeling of being a mix of both masculine and feminine (and sometimes neutral) gender qualities,0.0
+Anesigender,feeling like a certain gender yet being more comfortable identifying with another,222.71428571428572
+Angenital,a desire to be without primary sexual characteristics without necessarily being genderless; one may be both angenital and identify as any other gender alongside,257.45
+Anogender,a gender that fades in and out but always comes back to the same feeling,431.4
+Anongender,a gender that is unknown to both yourself and others,708.625
+Antegender,a protean gender which has the potential to be anything but is formless and motionless and therefore does not manifest as any particular gender,521.75
+Anxiegender,a gender that is affected by anxiety,307.64285714285717
+Apagender,a feeling of apathy towards ones gender which leads to them not looking any further into it,0.0
+Apconsugender,a gender where you know what it isn�t but not what it is; the gender is hiding itself from you,683.8333333333334
+Astergender,a gender that feels bright and celestial,0.0
+Astralgender,a gender that feels connected to space,220.3
+Autigender,a gender that can only be understood in the context of being autistic. Meant for autistic people only.,763.65
+Autogender,a gender experience that is deeply personal to oneself,343.84615384615387
+Axigender,when a person experiences two genders that sit on opposite ends of an axis; one being agender and the other being any other gender; these genders are experienced one at a time with no overlapping and with very short transition time.,0.0
+Bigender,the feeling of having two genders either at the same time or separately; usually used to describe feeling �traditionally male� and �traditionally female� but does not have to,10283.0
+Biogender,a gender that feels connected to nature in some way,194.89473684210526
+Blurgender,the feeling of having more than one gender that are somehow blurred together to the point of not being able to distinguish or identify individual genders; synonymous with genderfuzz,104.5
+Boyflux,when one feels mostly or all male most of the time but experience fluctuating intensity of male identity,2036.7
+Burstgender,and gender that comes in intense bursts of feeling and quickly fades back to the original state,581.1428571428571
+Caelgender,a gender which shares qualities with outer space or has the aesthetic of space stars nebulas etc.,0.0
+Cassgender,the feeling of gender is unimportant to you,1407.85
+Cassflux,when the level of indifference towards your gender fluctuates,542.0
+Cavusgender,for people with depression; when you feel one gender when not depressed and another when depressed,355.6923076923077
+Cendgender,when your gender changes between one and its opposite,0.0
+Ceterofluid,when you are ceterogender and your feelings fluctuate between masculine feminine and neutral,955.0
+Ceterogender,a nonbinary gender with specific masculine feminine or neutral feelings,543.25
+Cisgender,the feeling of being the gender you were assigned at birth all the time (assigned (fe)male/feeling (fe)male),21923.05
+Cloudgender,a gender that cannot be fully realized or seen clearly due to depersonalization/derealization disorder,505.44444444444446
+Collgender,the feeling of having too many genders simultaneously to describe each one,0.0
+Colorgender,a gender associated with one or more colors and the feelings hues emotions and/or objects associated with that color; may be used like pinkgender bluegender yellowgender,216.2
+Commogender,when you know you aren�t cisgender but you settled with your assigned gender for the time being,0.0
+Condigender,a gender that is only felt during certain circumstances,300.22222222222223
+Deliciagender,from the Latin word delicia meaning �favorite� meaning the feeling of having more than one simultaneous gender yet preferring one that fits better,0.0
+Demifluid,the feeling your gender being fluid throughout all the demigenders; the feeling of having multiple genders some static and some fluid,1619.5
+Demiflux,the feeling of having multiple genders some static and some fluctuating,2104.9
+Demigender,a gender that is partially one gender and partially another,58110.2
+Domgender,having more than one gender yet one being more dominant than the others,0.0
+Demi-vapor, (term coined by @cotton-blossom-jellyfish)Continuously drifting to other genders feeling spiritually transcendental when doing so while having a clear -slightly blurred- inner visual of your genders transitions and positive emotions. Tied to Demi-Smoke.,442.0
+Demi-smoke, (term coined by @cotton-blossom-jellyfish)A transcendental spiritual gender roughly drifting to other genders that are unable to be foreseen and understood shrouded in darkness within your inner visual. Elevating through mystery. Caused by a lack of inner interpretation and dark emotional states. Tied to Demi-Vapor.,291.35
+Duragender,from the Latin word dura meaning �long-lasting� meaning a subcategory of multigender in which one gender is more identifiable long lasting and prominent than the other genders,312.26666666666665
+Egogender,a gender that is so personal to your experience that it can only be described as �you�,255.95
+Epicene,sometimes used synonymously with the adjective �androgynous�; the feeling either having or not displaying characteristics of both or either binary gender; sometimes used to describe feminine male identifying individuals,408.75
+Espigender,a gender that is related to being a spirit or exists on a higher or extradimensional plane,734.2
+Exgender, the outright refusal to accept or identify in on or around the gender spectrum,248.5625
+Existigender,a gender that only exists or feels present when thought about or when a conscious effort is made to notice it,478.375
+Female,one of two binary genders where one feels fully and completely female; can and is used in conjunction with other gender labels and identities,5460.25
+Femfluid,having fluctuating or fluid gender feelings that are limited to feminine genders,471.0
+Femgender,a nonbinary gender which is feminine in nature,243.6
+Fluidflux,the feeling of being fluid between two or more genders that also fluctuate in intensity; a combination of genderfluid and genderflux,2781.1
+Gemigender,having two opposite genders that work together being fluid and flux together,514.75
+Genderblank,a gender that can only be described as a blank space; when gender is called into question all that comes to mind is a blank space,333.45
+Genderflow,a gender that is fluid between infinite feelings,113.16666666666667
+Genderfluid,the feeling of fluidity within your gender identity; feeling a different gender as time passes or as situations change; not restricted to any number of genders,15734.25
+Genderflux,the feeling of your gender fluctuating in intensity; like genderfluid but between one gender and agender,23027.3
+Genderfuzz,coined by lolzmelmel; the feeling of having more than one gender that are somehow blurred together to the point of not being able to distinguish or identify individual genders; synonymous with blurgender,378.0
+Gender Neutral,the feeling of having a neutral gender whether somewhere in between masculine and feminine or a third gender that is separate from the binary; often paired with neutrois,51647.3
+Genderpunk,a gender identity that actively resists gender norms,316.2
+Genderqueer,originally used as an umbrella term for nonbinary individuals; may be used as an identity; describes a nonbinary gender regardless of whether the individual is masculine or feminine leaning,62.8
+Genderwitched,a gender in which one is intrigued or entranced by the idea of a particular gender but is not certain that they are actually feeling it,0.0
+Girlflux,when one feels mostly or all female most of the time but experiences fluctuating intensities of female identity,1893.9
+Glassgender,a gender that is very sensitive and fragile,742.0
+Glimragender,a faintly shining wavering gender,1820.5
+Greygender,having a gender that is mostly outside of the binary but is weak and can barely be felt,4448.2
+Gyragender,having multiple genders but understanding none of them,210.0
+Healgender,a gender that once realized brings lots of peace clarity security and creativity to the individual�s mind,116.5
+Heliogender,a gender that is warm and burning,628.7142857142857
+Hemigender,a gender that is half one gender and half something else; one or both halves may be identifiable genders,0.0
+Horogender,a gender that changes over time with the core feeling remaining the same,323.4166666666667
+Hydrogender,a gender which shares qualities with water,0.0
+Imperigender,a fluid gender that can be controlled by the individual,903.8333333333334
+Intergender,the feeling of gender falling somewhere on the spectrum between masculine and feminine. Meant for intersex people only,1384.1
+Juxera,a feminine gender similar to girl but on a separate plane and off to itself,460.05
+Libragender,a gender that feels agender but has a strong connection to another gender,281.05
+Male,one of two binary genders where one feels fully and completely male; can and is used in conjunction with other gender labels and identities,2282.35
+Magigender,a gender that is mostly gender and the rest is something else,1954.1
+Mascfluid,A gender that is fluid in nature and restricted only to masculine genders,475.22222222222223
+Mascgender,a non-binary gender which is masculine in nature.,0.0
+Maverique,taken from the word maverick; the feeling of having a gender that is separate from masculinity femininity and neutrality but is not agender; a form of third gender,3328.0
+Mirrorgender,a gender that changes to fit the people around you,199.9
+Molligender,a gender that is soft subtle and subdued,917.25
+Multigender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand omnigender,3047.55
+Nanogender,feeling a small part of one gender with the rest being something else,1796.15
+Neutrois,the feeling of having a neutral gender; sometimes a lack of gender that leads to feeling neutral,8726.85
+Nonbinary,originally an umbrella term for any gender outside the binary of cisgenders; may be used as an individual identity; occasionally used alongside of genderqueer,195.55
+Omnigender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand polygender,0.0
+Oneirogender,coined by anonymous �being agender but having recurring fantasies or daydreams of being a certain gender without the dysphoria or desire to actually be that gender day-to-day�,224.5
+Pangender,the feeling of having every gender; this is considered problematic by some communities and thus has been used as the concept of relating in some way to all genders as opposed to containing every gender identity; only applies to genders within one�s own culture,12439.7
+Paragender,the feeling very near one gender and partially something else which keeps you from feeling fully that gender,250.47058823529412
+Perigender,identifying with a gender but not as a gender,324.2857142857143
+Polygender,the feeling of having more than one simultaneous or fluctuating gender; simultaneous with multigenderand omnigender,5060.95
+Proxvira, masculine gender similar to boy but on a separate plane and off to itself,
+Quoigender,feeling as if the concept of gender is inapplicable or nonsensical to one�s self,616.05
+Subgender,mostly agender with a bit of another gender,96.05
+Surgender,having a gender that is 100% one gender but with more of another gender added on top of that,102.42857142857143
+Systemgender,a gender that is the sum of all the genders within a multiple or median system,0.0
+Tragender,a gender that stretches over the whole spectrum of genders,154.0
+Transgender,any gender identity that transcends or does not align with your assigned gender or society�s idea of gender; the feeling of being any gender that does not match your assigned gender,181.95
+Transneutral,A term used to describe transgender people who were assigned male or female at birth but identify with neutral gendered feelings to a greater extent than with femininity or masculinity. It is used the same way as �transfeminine� or �transmasculine� but for neutral feelings. It can be used to describe gendered feelings or as a gender itself.,6046.15
+Trigender,the feeling of having three simultaneous or fluctuating genders,20031.95
+Vapogender,a gender that sort of feels like smoke; can be seen on a shallow level but once you go deeper it disappears and you are left with no gender and only tiny wisps of what you thought it was,168.3846153846154
+Venngender,when two genders overlap creating an entirely new gender; like a venn diagram,96.8
+Verangender,a gender that seems to shift/change the moment it is identified,85.0
+Vibragender,a gender that is usually one stable gender but will occasionally changes or fluctuate before stabilizing again,0.0
+Vocigender,a gender that is weak or hollow,67.88888888888889
