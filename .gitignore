@@ -1,3 +1,6 @@
+# auth files
+.yaml
+
 # History files
 .Rhistory
 .Rapp.history
