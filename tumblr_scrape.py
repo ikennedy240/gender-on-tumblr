@@ -2,6 +2,9 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, WebDriverException
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
 import numpy as np
@@ -82,12 +85,18 @@ def grab_notes(current_post, driver, note_mult = 3):
                 EC.presence_of_element_located((By.CLASS_NAME,'rollup-notes-summary-likes')))
     body = driver.find_element_by_tag_name("body")
     note_len = 0
-    n_likes = driver.find_element_by_class_name('rollup-notes-summary-likes').text
-    n_reblogs = driver.find_element_by_class_name('rollup-notes-summary-reblogs').text
+    try:
+        n_likes = driver.find_element_by_class_name('rollup-notes-summary-likes').text
+        n_reblogs = driver.find_element_by_class_name('rollup-notes-summary-reblogs').text
+    except:
+        n_likes = 'unknown'
+        n_reblogs = 'unknown'
     n_notes = driver.find_element_by_class_name('primary-message').text
-    ActionChains(driver).move_to_element(driver.find_element_by_class_name('rollup-notes-summary-likes')).click().perform()
-    element = WebDriverWait(driver, 40).until(
-                EC.presence_of_element_located((By.CLASS_NAME,'post-activity-note')))
+    try:
+        ActionChains(driver).move_to_element(driver.find_element_by_class_name('rollup-notes-summary-likes')).click().perform()
+    except:
+        pass
+    element = WebDriverWait(driver, SCROLL_PAUSE_TIME*note_mult).until(EC.presence_of_element_located((By.CLASS_NAME,'post-activity-note')))
     notes = driver.find_elements_by_css_selector('.post-activity-note')
     while len(notes)<200:
         try:
@@ -151,7 +160,7 @@ def scrape_post(current_post, driver):
 
     # get some notes, yo
     try:
-        n_notes, n_reblogs, n_likes, likes, rebloggers, rebloged_from = grab_notes(current_post, driver)
+        n_notes, n_reblogs, n_likes, likes, rebloggers = grab_notes(current_post, driver)
     except Exception as e:
         print('first try notes', current_post.get_attribute('data-tumblelog'),e)
         try:
@@ -238,5 +247,5 @@ if __name__ == '__main__':
     likes = keyword_frame[keyword_frame.post_id == '145066979045'].likes.values
     reblogs = keyword_frame[keyword_frame.post_id == '145066979045'].rebloggers.values
     rebloged_from = keyword_frame[keyword_frame.post_id == '145066979045'].rebloged_from.values
-
+    keyword_frame.to_csv('tumblr_sample_8_30')
 len(rebloged_from[0])
