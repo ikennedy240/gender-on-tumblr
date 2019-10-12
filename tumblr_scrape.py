@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
 import numpy as np
-import datetime
+from datetime import datetime
 import time
 import os
 import sys
@@ -24,10 +24,12 @@ note_mult = 3
 def make_driver(headless = False):
     # on mac we can just do this
     if sys.platform == 'darwin':
-        chrome_options = webdriver.ChromeOptions()
         if headless:
+            chrome_options = webdriver.ChromeOptions()
             chrome_options.add_argument('--headless')
-        driver = webdriver.Chrome(options = chrome_options)
+            driver = webdriver.Chrome(options = chrome_options)
+        else:
+            driver = webdriver.Chrome()
     # otherwise we need to specify where chromedriver is
     else:
         #chrome_options.binary_location = "/usr/bin/chromium"
@@ -35,7 +37,7 @@ def make_driver(headless = False):
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-dev-shm-usage')
-        driver = webdriver.Chrome('/home/ikennedy/apts_scrape/resources/chromedriver', options = chrome_options)
+        driver = webdriver.Chrome('/home/ikennedy/cl_daemon/resources/chromedriver', options = chrome_options)
     return(driver)
 
 def scrape_note_counts(driver,query,full=True):
@@ -240,12 +242,8 @@ if __name__ == '__main__':
     keyword_frame = pd.DataFrame()
     for keyword in keywords[:10]:
         keyword_frame = keyword_frame.append(scrape_search(keyword))
-    current_post = posts[2]
-    debug = True
-    user_frame.to_csv('tumblr_sample.csv')
+    #current_post = posts[3]
+    #debug = True
+    #user_frame.to_csv('tumblr_sample.csv')
     driver.close()
-    likes = keyword_frame[keyword_frame.post_id == '145066979045'].likes.values
-    reblogs = keyword_frame[keyword_frame.post_id == '145066979045'].rebloggers.values
-    rebloged_from = keyword_frame[keyword_frame.post_id == '145066979045'].rebloged_from.values
-    keyword_frame.to_csv('tumblr_sample_8_30')
-len(rebloged_from[0])
+    keyword_frame.to_csv('tumblr_sample'+datetime.now().strftime('%Y_%m_%d'))
