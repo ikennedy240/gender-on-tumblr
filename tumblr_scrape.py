@@ -95,11 +95,15 @@ def grab_notes(current_post, driver, note_mult = 3):
         n_reblogs = 'unknown'
     n_notes = driver.find_element_by_class_name('primary-message').text
     try:
+        element = WebDriverWait(driver, SCROLL_PAUSE_TIME*note_mult).until(EC.presence_of_element_located((By.CLASS_NAME,'rollup-notes-summary-likes')))
         ActionChains(driver).move_to_element(driver.find_element_by_class_name('rollup-notes-summary-likes')).click().perform()
+        print('click success')
     except:
         pass
     element = WebDriverWait(driver, SCROLL_PAUSE_TIME*note_mult).until(EC.presence_of_element_located((By.CLASS_NAME,'post-activity-note')))
-    notes = driver.find_elements_by_css_selector('.post-activity-note')
+    print('element is complete')
+    print(element)
+    notes = driver.find_elements_by_class_name('post-activity-note')
     while len(notes)<200:
         try:
             post_activity_note = driver.find_element_by_class_name('post-activity-note')
