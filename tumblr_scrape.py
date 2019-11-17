@@ -209,7 +209,7 @@ def scrape_user(driver, user, debug):
     user_frame['user'] = user
     return(driver, user_frame)
 
-def scrape_search(keyword, debug = True):
+def scrape_search(keyword, debug = False):
     driver = make_driver()
     url = 'https://www.tumblr.com/search/'+keyword
     driver.get(url)
@@ -218,6 +218,7 @@ def scrape_search(keyword, debug = True):
     while len(posts)<n_posts:
         scroll_page(driver)
         posts = driver.find_elements_by_css_selector('article')
+        print(len(posts))
     keyword_frame = pd.DataFrame()
     if debug:
         posts = posts[:5]
@@ -244,10 +245,12 @@ if __name__ == '__main__':
     # user = 'queer-no-matter-what'
     keywords =  gender_list.sort_values('notes', ascending =  False).best_match
     keyword_frame = pd.DataFrame()
-    for keyword in keywords[:10]:
+    for keyword in keywords[:20]:
         keyword_frame = keyword_frame.append(scrape_search(keyword))
     #current_post = posts[3]
-    #debug = True
+    #debug == True
     #user_frame.to_csv('tumblr_sample.csv')
     driver.close()
     keyword_frame.to_csv('tumblr_sample'+datetime.now().strftime('%Y_%m_%d'))
+
+np.sum(keyword_frame.likes == ' ')
