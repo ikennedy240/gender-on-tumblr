@@ -40,7 +40,7 @@ Ceterogender,a nonbinary gender with specific masculine feminine or neutral feel
 Cisgender,the feeling of being the gender you were assigned at birth all the time (assigned (fe)male/feeling (fe)male),21923.65,Cisgender
 Cloudgender,a gender that cannot be fully realized or seen clearly due to depersonalization/derealization disorder,505.55555555555554,Cloudgender
 Collgender,the feeling of having too many genders simultaneously to describe each one,572.6666666666666,Collgender
-Colorgender,a gender associated with one or more colors and the feelings hues emotions and/or objects associated with that color; may be used like pinkgender bluegender yellowgender,24172.3,Color+gender
+Colorgender,a gender associated with one or more colors and the feelings hues emotions and/or objects associated with that color; may be used like pinkgender bluegender yellowgender,24172.3,colorgender
 Commogender,when you know you aren�t cisgender but you settled with your assigned gender for the time being,468.25,Commogender
 Condigender,a gender that is only felt during certain circumstances,300.27777777777777,Condigender
 Deliciagender,from the Latin word delicia meaning �favorite� meaning the feeling of having more than one simultaneous gender yet preferring one that fits better,88.66666666666667,Deliciagender
