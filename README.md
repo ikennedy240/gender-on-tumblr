@@ -2,48 +2,39 @@
 
 ## Digital Gender Diversity: Constellations of Gendered Meaning on Tumblr
 
-Hannah Curtis1 and Ian Kennedy1*
-1University of Washington, Sociology Department
-*Authors Contributed equally to research and writing and are listed in alphabetical order and by last name
-Abstract
+Hannah Curtis and Ian Kennedy
+
+University of Washington, Sociology Department
+
+\*Authors Contributed equally to research and writing and are listed in alphabetical order and by last name
+
+## Abstract
+
 Using an innovative double sample of Gender-focused discursive communities on Tumblr, we investigate how diverse genders are produced, performed, and discussed. Contemporary sociological work on gender remains bound by binary gender thinking, even when focused on gender diverse individuals and communities. That work amounts to an interrogation of non-binary, trans, and other gender diverse and queer people. Scholars then attempt to define our genders in terms of men and women, often placing us either between man and woman or by measuring our opposition to that binary. Results from discussions on tumblr reject this accounting. We use network analysis to show that individual gender networks are connected and have similar density scores . In many cases, the same vertices  were shared between multiple networks, demonstrating that if Tumblr users were participating in one diverse gender network, they were likely to be embedded in several others. Together, these findings indicate that Tumblr users do not limit their participation to a singular gender network. Instead, they consider a multiplicity of gender networks when using Tumblr signifying that conversations about gender identity are layered, relational, and dynamic.  Word embeddings, a way of measuring the way words are used, show that words reflecting gender-diverse identities form their own constellation of meaning neither between nor in opposition to ‘man’ and ‘woman’. 
 
 ## Paper Excerpt:
 
 ### INTER-NETWORK CHARACTERISTICS: 
-Vertex overlap was present between all networks. For most networks, simultaneous node count increased if intersecting two diverse gender identity tags as opposed to intersecting any diverse gender tag with the cisgender tag. Tumblr users utilizing large networked diverse gender tags were not participating in the cisgender tag network as frequently as with other diverse gender tags. Many nodes were poly connected to several networks. This finding demonstrates that if Tumblr users were present in a large network comprised of a diverse gender tag, they were likely to be participating in other large networks comprised of different diverse gender tags. Smaller networks had less shared nodes across networks in general. As can be seen in Table 3, the networks produced from tags “Trigender”, “Anongender”, and “Egogender” actually had more shared nodes with the “Cisgender” network. However, size does not fully explain this relationship as “Anongender” has twice as many nodes compared to “Trigender” and “Egogender”. A possibility is that these three gender networks are less common in the Tumblr discourse, and therefore less connected to gender networks that are more common in the Tumblr discourse. Further tests should be completed to identify unique characteristics between the networks and their propensity to share nodes with other diverse gender tag networks. 
+Vertex overlap was present between all networks. For most networks, simultaneous node count increased if intersecting two diverse gender identity tags as opposed to intersecting any diverse gender tag with the cisgender tag. Tumblr users utilizing large networked diverse gender tags were not participating in the cisgender tag network as frequently as with other diverse gender tags. Many nodes were poly connected to several networks. This finding demonstrates that if Tumblr users were present in a large network comprised of a diverse gender tag, they were likely to be participating in other large networks comprised of different diverse gender tags. Smaller networks had less shared nodes across networks in general. As can be seen in Table 1, the networks produced from tags “Trigender”, “Anongender”, and “Egogender” actually had more shared nodes with the “Cisgender” network. However, size does not fully explain this relationship as “Anongender” has twice as many nodes compared to “Trigender” and “Egogender”. A possibility is that these three gender networks are less common in the Tumblr discourse, and therefore less connected to gender networks that are more common in the Tumblr discourse. Further tests should be completed to identify unique characteristics between the networks and their propensity to share nodes with other diverse gender tag networks. 
 
 
 
-Table 3. Sample of Overlapping Vertices Between Cisgender and Genderfluid Networks
-Relationship
-Count of Shared Nodes
-Relationship
-Count of Shared Nodes
-Cisgender-Nonbinary
-286
-Genderfluid-Nonbinary
-1061
-Cisgender-Trigender
-432
-Genderfluid-Trigender
-252
-Cisgender-Genderqueer
-310
-Genderfluid-Genderqueer
-917
-Cisgender-Genderflux
-237
-Genderfluid-Genderflux
-479
-Cisgender-Anongender
-60
-Genderfluid-Anongender
-49
-Cisgender-Egogender
-44
-Genderfluid-Egogender
-40
+Table 1. Sample of Overlapping Vertices Between Cisgender and Genderfluid Networks
+
+Relationship | Count of Shared Nodes
+------------ | -------------
+Cisgender-Nonbinary | 286
+Genderfluid-Nonbinary | 1061
+Cisgender-Trigender | 432
+Genderfluid-Trigender | 252
+Cisgender-Genderqueer | 310
+Genderfluid-Genderqueer | 917
+Cisgender-Genderflux | 237
+Genderfluid-Genderflux | 479
+Cisgender-Anongender | 60
+Genderfluid-Anongender | 49
+Cisgender-Egogender | 44
+Genderfluid-Egogender | 40
 
 **Figure 1: Intra-Gender Like Network**
 ![figure 1](images/figure1.png)
@@ -86,23 +77,42 @@ Hannah did the descriptive network analysis, wrote up the respective results, wr
 
 ## Works Cited
 Carstensen, T. (2009). Gender Trouble in Web 2.0. Gender perspectives on social network sites, wikis and weblogs. International Journal of Gender, Science and Technology, 1(1).
+
 Cavalcante, A. (2016). “I Did It All Online:” Transgender identity and the management of everyday life. Critical studies in media communication, 33(1), 109-122.
+
 Cavalcante, A. (2019). Tumbling into queer utopias and vortexes: experiences of LGBTQ social media users on Tumblr. Journal of homosexuality, 66(12), 1715-1735.
+
 Dame, Avery. 2016a. “Making a Name for Yourself: Tagging as Transgender Ontological Practice on Tumblr.” Critical Studies in Media Communication 33 (1): 23–37.
+
 Derrida, Jacques. 2016. Of grammatology. JHU Press.
+
 Fink, M., & Miller, Q. (2014). Trans media moments: Tumblr, 2011–2013. Television & New Media, 15(7), 611–626. doi:10.1177/1527476413505002
+
 Garg, Nikhil, Londa Schiebinger, Dan Jurafsky, and James Zou. 2018. "Word embeddings quantify 100 years of gender and ethnic stereotypes." Proceedings of the National Academy of Sciences 115, no. 16: E3635-E3644.
+
 Garrison, S. (2018). On the limits of “trans enough”: Authenticating trans identity narratives. Gender & Society, 32(5), 613-637.
+
 Goffman, Erving. 1959. The presentation of self in everyday life. Garden City, NY: Doubleday.
+
 Haber, Benjamin. 2017. “Queer Facebook? Digital sociality and queer theory” in Daniels, Jessie, Karen Gregory, and Tressie McMillan Cottom, eds. Digital Sociologies. 1st ed. Bristol University Press.
+
 Haimson, O. L., Dame-Griff, A., Capello, E., & Richter, Z. (2019). Tumblr was a trans technology: the meaning, importance, history, and future of trans technologies. Feminist Media Studies, 1-17.
+
 Hawkins, B. W., & Haimson, O. (2018, May). Building an online community of care: Tumblr use by transgender individuals. In Proceedings of the 4th Conference on Gender & IT (pp. 75-77).
+
 Kitzie, V. L. (2017). Affordances and constraints in the online identity work of LGBTQ+ individuals. Proceedings of the Association for Information Science and Technology, 54(1), 222-231.
+
 McInroy, L. B., & Craig, S. L. (2015). Transgender representation in offline and online media: LGBTQ youth perspectives. Journal of Human Behavior in the Social Environment, 25(6), 606-617. 
+
 Oakley, Abigail. 2016. “Disturbing Hegemonic Discourse: Nonbinary Gender and Sexual Orientation Labeling on Tumblr.” Social Media + Society 2 (3): 2056305116664217.
+
 Recuber, Timothy. 2017. “Digital discourse analysis: Finding meaning in small online spaces” in Daniels, Jessie, Karen Gregory, and Tressie McMillan Cottom, eds. Digital Sociologies. 1st ed. Bristol University Press.
+
 Rehurek, R. and P. Sojka. 2011. “Gensim–Python Framework for Vector Space Modelling.” NLP Centre, Faculty of Informatics, Masaryk University, Brno, Czech Republic 3(2).
+
 Rehurek, Radim and Petr Sojka. 2010. “Software Framework for Topic Modelling with Large Corpora.” in In Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks.
+
 Sanger, T., & Hines, S. (2010). Transgender identities: Towards a social analysis of gender diversity.
+
 Schilt, K., & Lagos, D. (2017). The development of transgender studies in sociology. Annual Review of Sociology, 43, 425-443.
 
